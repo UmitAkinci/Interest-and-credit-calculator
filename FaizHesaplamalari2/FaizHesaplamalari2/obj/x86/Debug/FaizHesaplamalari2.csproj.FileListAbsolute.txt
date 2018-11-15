@@ -1,0 +1,22 @@
+c:\documents and settings\ggunes\my documents\visual studio 2010\Projects\FaizHesaplamalari2\FaizHesaplamalari2\bin\Debug\FaizHesaplamalari2.exe
+c:\documents and settings\ggunes\my documents\visual studio 2010\Projects\FaizHesaplamalari2\FaizHesaplamalari2\bin\Debug\FaizHesaplamalari2.pdb
+c:\documents and settings\ggunes\my documents\visual studio 2010\Projects\FaizHesaplamalari2\FaizHesaplamalari2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\ggunes\my documents\visual studio 2010\Projects\FaizHesaplamalari2\FaizHesaplamalari2\obj\x86\Debug\FaizHesaplamalari2.Properties.Resources.resources
+c:\documents and settings\ggunes\my documents\visual studio 2010\Projects\FaizHesaplamalari2\FaizHesaplamalari2\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\ggunes\my documents\visual studio 2010\Projects\FaizHesaplamalari2\FaizHesaplamalari2\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\ggunes\my documents\visual studio 2010\Projects\FaizHesaplamalari2\FaizHesaplamalari2\obj\x86\Debug\FaizHesaplamalari2.exe
+c:\documents and settings\ggunes\my documents\visual studio 2010\Projects\FaizHesaplamalari2\FaizHesaplamalari2\obj\x86\Debug\FaizHesaplamalari2.pdb
+c:\documents and settings\ggunes\my documents\visual studio 2010\Projects\FaizHesaplamalari2\FaizHesaplamalari2\obj\x86\Debug\FaizHesaplamalari2.AnaMenu.resources
+c:\documents and settings\ggunes\my documents\visual studio 2010\Projects\FaizHesaplamalari2\FaizHesaplamalari2\obj\x86\Debug\FaizHesaplamalari2.FrmKredi.resources
+c:\documents and settings\ggunes\my documents\visual studio 2010\Projects\FaizHesaplamalari2\FaizHesaplamalari2\obj\x86\Debug\FaizHesaplamalari2.FrmFaiz.resources
+C:\Users\uakinci\Desktop\FaizHesaplamalari2\FaizHesaplamalari2\bin\Debug\FaizHesaplamalari2.exe
+C:\Users\uakinci\Desktop\FaizHesaplamalari2\FaizHesaplamalari2\bin\Debug\FaizHesaplamalari2.pdb
+C:\Users\uakinci\Desktop\FaizHesaplamalari2\FaizHesaplamalari2\obj\x86\Debug\FaizHesaplamalari2.csprojAssemblyReference.cache
+C:\Users\uakinci\Desktop\FaizHesaplamalari2\FaizHesaplamalari2\obj\x86\Debug\FaizHesaplamalari2.AnaMenu.resources
+C:\Users\uakinci\Desktop\FaizHesaplamalari2\FaizHesaplamalari2\obj\x86\Debug\FaizHesaplamalari2.FrmFaiz.resources
+C:\Users\uakinci\Desktop\FaizHesaplamalari2\FaizHesaplamalari2\obj\x86\Debug\FaizHesaplamalari2.FrmKredi.resources
+C:\Users\uakinci\Desktop\FaizHesaplamalari2\FaizHesaplamalari2\obj\x86\Debug\FaizHesaplamalari2.Properties.Resources.resources
+C:\Users\uakinci\Desktop\FaizHesaplamalari2\FaizHesaplamalari2\obj\x86\Debug\FaizHesaplamalari2.csproj.GenerateResource.cache
+C:\Users\uakinci\Desktop\FaizHesaplamalari2\FaizHesaplamalari2\obj\x86\Debug\FaizHesaplamalari2.csproj.CoreCompileInputs.cache
+C:\Users\uakinci\Desktop\FaizHesaplamalari2\FaizHesaplamalari2\obj\x86\Debug\FaizHesaplamalari2.exe
+C:\Users\uakinci\Desktop\FaizHesaplamalari2\FaizHesaplamalari2\obj\x86\Debug\FaizHesaplamalari2.pdb
